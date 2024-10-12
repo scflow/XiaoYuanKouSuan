@@ -1,0 +1,10 @@
+mss
+numpy
+opencv_contrib_pythonopencv_python
+opencv_python_headless
+paddleocr
+paddleocr.egg
+paddlepaddle
+paddlepaddle_gpu
+Pillow
+uiautomator2
