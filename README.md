@@ -42,7 +42,7 @@
 ### **安装步骤**
 
 1. 在[Python](https://www.python.org/) 下载对应Python版本
-2. 在[tesseract](https://github.com/tesseract-ocr/tesseract)下载Windows版本，并安装中文语言确保最佳兼容性
+2. Paddle系列包推荐在[Paddle官网](https://www.paddlepaddle.org.cn/)根据个人配置选择对应安装版本
 3. 安装所需的Python库（有两种安装命令，第一种是安装速度更快的清华大学镜像源，第二种是官方镜像源）👇无论哪个都行，反正选一个
 4. 手机投屏工具[scrcpy](https://scrcpy.org/)
 5. [ADB](https://developer.android.com/studio/releases/platform-tools?hl=zh-cn)需保存到环境变量中
@@ -51,8 +51,6 @@
 ```bash
 pip install -i https://pypi.tuna.tsinghua.edu.cn/simple -r requirements.txt
 ```
-Paddle系列包推荐在[Paddle官网](https://www.paddlepaddle.org.cn/)根据个人配置选择对应安装版本
-
 ### 使用说明
 
 1. 手机启用ADB，开启USB模拟点击选项(USB安全调试)
