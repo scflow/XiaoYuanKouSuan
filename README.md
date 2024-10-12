@@ -1,4 +1,4 @@
-# XiaoYuanKouSuan_Auto
+# XiaoYuanKouSuan
 
 基于PaddleOCR用于小猿口算的口算PK Python代码
 
